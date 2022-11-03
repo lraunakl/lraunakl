@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchains**
 
-- 🤝 I’m looking for help with **IDO LaunchPad**
+- 🤝 I’m looking for help with **IDO LaunchPads & Flashloan Arbitrage**
 
 - 💬 Ask me about **Solidity , Blockchains**
 
