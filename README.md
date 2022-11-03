@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raunak</h1>
-<h3 align="center">Blockchain Developer</h3>
+<h3 align="center">Blockchain Developer & Consultant</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 
