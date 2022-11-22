@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lraunakl&label=Profile%20views&color=0e75b6&style=flat" alt="lraunakl" /> </p>
 
-- 🔭 I’m currently working on **Avalanche**
+- 🔭 I’m currently working on **Avalanche,Ethereum & Polygon Chain**
 
 - 🌱 I’m currently learning **Solidity , Moralis**
 
