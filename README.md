@@ -1,115 +1,81 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=280&section=header&text=RAUNAK%20DHABEKAR&fontSize=90&fontColor=58A6FF&animation=fadeIn&desc=QUANTITATIVE%20ARCHITECT%20|%20AI%20AGENT%20STRATEGIST&descSize=24&descAlignY=70&descColor=A3D1FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Ramesh%20Vithoba%20Dhabekar&fontSize=50&fontAlignY=35&desc=QUANTITATIVE%20ARCHITECT%20%7C%20AI%20AGENT%20STRATEGIST&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Optimizing_Cross-Chain_Liquidity;Engineering+the+bridge+between+AI+and+DeFi;Architecting+Zero-Knowledge+Machine+Learning;Building+Cortex:+Decision+Intelligence" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Initializing_AI_Agent_Logic...;Optimizing_Cross-Chain_Liquidity;MSc_Financial_Engineering_Active;GCP_+_OCI_Cloud_Clusters_Online" />
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/MSc-Financial_Engineering-0052cc?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-L6_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_Certified_Pro-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
+  <br>
+  
+  <p>
+    <img src="https://img.shields.io/badge/MSc-FINANCIAL_ENGINEERING-0052cc?style=for-the-badge&logo=google-scholar&logoColor=white" alt="MSc">
+    <img src="https://img.shields.io/badge/GOOGLE_CLOUD-L6_ARCHITECT-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+    <img src="https://img.shields.io/badge/ORACLE-OCI_CERTIFIED_PRO-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  </p>
 </div>
 
----
+<br>
 
-## 🏛️ Strategic Architecture: AI x Web3 x Quant
-> *“Engineering the bridge between Autonomous Intelligence and Decentralized Finance.”*
+<table align="center" width="100%" style="border-collapse: collapse; border: none; background-color: #0D1117; border-radius: 10px;">
+  <tr style="border: none;">
+    <td style="padding: 20px; border: none;">
+      <h2 style="color: #58A6FF;">🏛️ Strategic Architecture: AI x Web3 x Quant</h2>
+      <blockquote>
+        <p><em>"Engineering the bridge between Autonomous Intelligence and Decentralized Finance."</em></p>
+      </blockquote>
+      <p>I specialize in <b>Agentic Workflows</b>—designing AI systems that don't just "chat," but execute complex financial strategies autonomously. My background in Financial Engineering allows me to build on-chain models that are mathematically sound and gas-optimized for the 2026 Web3 landscape.</p>
+      
+      <details>
+        <summary><b>⚡ View Current Operations (Click to Expand)</b></summary>
+        <ul>
+          <li><b>Building:</b> <i>Cortex</i> — A decentralized Decision Copilot for Founders.</li>
+          <li><b>Architecting:</b> Enterprise sales funnels and scalable cloud infrastructures.</li>
+          <li><b>Researching:</b> zkML (Zero-Knowledge Machine Learning) execution environments.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-I specialize in **Agentic Workflows**—designing AI systems that don't just "chat," but execute complex financial strategies autonomously. My background in **Financial Engineering** allows me to build on-chain models that are mathematically sound and gas-optimized for the 2026 Web3 landscape.
+<br>
 
----
+<h2 align="center">🛠️ The Architect's Toolkit</h2>
+<p align="center"><i>Hover over the stack to see the interactive elements.</i></p>
 
-## 🛠️ The Architect's Toolkit (Interactive)
 <div align="center">
-  <p><i>Hover over icons for proficiency details</i></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,ethereum,py,pytorch,tensorflow,cpp,matlab,gcp,oracle,docker,kubernetes,git,ts,nextjs,mongodb,mysql,aws,azure,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=solidity,eth,polygon,py,pytorch,tensorflow,gcp,aws,docker,ts,react,mongodb&perline=6&theme=dark" alt="Tech Stack" />
   </a>
+</div>
+
+<br><br>
+
+<h2 align="center">📈 System Performance & Contribution Analysis</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lraunakl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title=false&column=6" alt="GitHub Trophies" />
 </div>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <b>Web3 Mastery</b><br>
-      <code>Solidity / Yul / Foundry</code>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lraunakl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
     </td>
-    <td width="33%" align="center">
-      <b>AI Infrastructure</b><br>
-      <code>LLMs / zkML / Agents</code>
-    </td>
-    <td width="33%" align="center">
-      <b>Quant Analysis</b><br>
-      <code>Stochastic Calc / HFT</code>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lraunakl&theme=tokyonight&hide_border=true&background=0D1117&count_private=true" alt="streak stats" />
     </td>
   </tr>
 </table>
 
----
-
-## 📊 Global System Performance & Contribution Analysis
-<p align="center">
-  <b>STATUS: ACTIVE PRODUCTION DEPLOYMENTS</b><br>
-  <i>(Analytics derived from Federated Private Clusters & Enterprise OCI Environments)</i>
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=lraunakl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&show=reviews,discussions,prs,contribs" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraunakl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-       <br>
-       <b>CORE ARCHITECTURE OUTPUT VELOCITY</b><br>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lraunakl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="95%" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">🚀 <b>99.9%</b> Deployment Uptime</td>
-      <td align="center">🔒 <b>Zero-Vuln</b> Smart Contracts</td>
-      <td align="center">📈 <b>$XXXM</b> Volume Orchestrated</td>
-    </tr>
-  </table>
+  <p align="center"><i>Autonomous Contribution Mapping</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
-
-## 🛸 Active Research Verticals (2026)
-* **[PROPRIETARY] Agentic Liquidity:** Self-balancing cross-chain vaults using RL (Reinforcement Learning).
-* **[RESEARCH] zkML Privacy:** Zero-Knowledge proofs for private credit scoring in DeFi.
-* **[CORE] High-Frequency Web3:** Optimizing MEV-resistant transaction pathways for L2/L3 ecosystems.
-
----
-
-## 📫 High-Priority Contact
 <div align="center">
-  <a href="mailto:raunak.dhabekar1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/raunak-dhabekar-165b0712a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer&bg_color=0D1117" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
 </div>
