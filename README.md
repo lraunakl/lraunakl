@@ -1,111 +1,102 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Raunak+👋;AI+x+Web3+Architect;MSc+Financial+Engineering;Building+Decentralized+AI+Agents;Google+%26+Oracle+Cloud+Certified" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=RAUNAK%20DHABEKAR&fontSize=80&fontColor=0E75B6&animation=twinkling&desc=QUANTITATIVE%20ENGINEER%20|%20AI%20AGENT%20ARCHITECT&descSize=22&descAlignY=70" width="100%"/>
 
-  <p align="center">
-    <a href="mailto:raunak.dhabekar1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <img src="https://img.shields.io/badge/MSc-Financial_Engineering-0052cc?style=for-the-badge&logo=google-scholar&logoColor=white" alt="MSc">
-  </p>
+<br>
 
-  <img src="https://komarev.com/ghpvc/?username=lraunakl&label=Profile%20Visits&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=System.init(%22Autonomous_AI_Agents%22);Deploying_zkML_on_EVM;Optimizing_Arbitrage_Algorithms;Mastering_Financial_Engineering" />
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/MSc-Financial_Engineering-0052cc?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Google_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Oracle_Cloud_Expert-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none;">
-      <h2>🚀 About Me</h2>
-      <p>I am a certified Cloud Professional and Quantitative Developer operating at the bleeding edge of <b>AI and Web3</b>. I specialize in bridging the gap between complex quantitative models, decentralized finance (DeFi), and autonomous AI systems.</p>
+---
+
+## ⚡ Executive Summary: The Intersection of AI & Web3
+> *"I don't just write code; I architect autonomous economic systems."*
+
+I specialize in the **2026 Agentic Economy**, where AI agents act as primary liquidity providers and governance participants. By combining **MSc-level Financial Engineering** with **Full-Stack Blockchain Architecture**, I build systems that are high-yield, gas-efficient, and truly intelligent.
+
+---
+
+## 🏗️ 2026 Core Research & Development
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Agentic Workflows</h3>
       <ul>
-        <li>🔭 <b>Currently Building:</b> <b>Cortex</b> — A Decision Copilot for Founders, integrating decision intelligence engines with predictive infra.</li>
-        <li>💼 <b>Enterprise:</b> Architecting sales funnels, scalable IT infrastructure, and custom software solutions.</li>
-        <li>🌱 <b>Currently Exploring:</b> Zero-Knowledge Machine Learning (zkML), Agentic Workflows, and Venture Capital mechanics.</li>
-        <li>🤝 <b>Consulting:</b> Smart Contract Architecture, Quantitative Trading Bots, and Enterprise Cloud (GCP/OCI).</li>
-        <li>💬 <b>Ask me about:</b> Solidity, LLMs, Financial Engineering, and distributed ledger architecture.</li>
+        <li><b>Autonomous Agents:</b> Building LLM-governed treasury managers.</li>
+        <li><b>zkML:</b> Implementing Zero-Knowledge Machine Learning to keep AI models private while proving their outputs on-chain.</li>
+        <li><b>Quant Logic:</b> Training neural networks for cross-exchange HFT and Flashloan execution.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="center" style="border: none;">
-      <img alt="Coding Hero" width="280" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+    <td width="50%" valign="top">
+      <h3>⛓️ Blockchain Infrastructure</h3>
+      <ul>
+        <li><b>Multi-Chain Ops:</b> Deploying synchronized liquidity layers across Ethereum, Polygon ZK-EVM, and Avalanche.</li>
+        <li><b>Solidity / Yul:</b> Writing hyper-optimized assembly for gas minimization.</li>
+        <li><b>Security:</b> Designing anti-MEV strategies and formal verification for DeFi primitives.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<h2 align="center">⚡ Featured Architecture</h2>
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lraunakl&repo=YOUR_CORTEX_REPO_NAME&theme=tokyonight&show_owner=true&border_color=0E75B6&bg_color=0D1117&hide_border=false" alt="Cortex Project" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">💻 Enterprise Tech Stack</h2>
+## 🛠️ The Architect's Toolkit
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>⛓️ Web3 & Blockchain</b></td>
-      <td align="center" width="25%"><b>🧠 AI & Quant</b></td>
-      <td align="center" width="25%"><b>☁️ Cloud & DevOps</b></td>
-      <td align="center" width="25%"><b>🛠️ Architecture</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="35" title="Solidity"/>
-        <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="35" title="Ethereum"/>
-        <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg" width="35" title="Polygon"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" title="Python"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="35" title="PyTorch"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="35" title="TensorFlow"/>
-      </td>
-      <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" title="GCP"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35" title="Oracle Cloud"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35" title="Docker"/>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" title="React"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" title="MongoDB"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,py,pytorch,tensorflow,cpp,matlab,gcp,oracle,docker,kubernetes,git,ts,nextjs,mongodb,mysql" />
 </div>
 
-<br>
+---
 
-<h2 align="center">📈 Dynamic Activity</h2>
+## 📊 System Performance & Contribution Analysis
+<p align="center">
+  <i>Note: Public contributions reflect open-source research. Core architectural work is performed within private enterprise OCI/GCP clusters.</i>
+</p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lraunakl/lraunakl/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lraunakl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lraunakl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="Raunak Stats" />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lraunakl&theme=tokyonight&hide_border=true&background=0D1117&count_private=true" alt="streak stats" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lraunakl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lraunakl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" />
+</div>
+
+---
+
+## 📈 Skillset Velocity
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantitative_Finance-95%25-0E75B6?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Blockchain_Arch-98%25-0E75B6?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/AI_Agent_Logic-92%25-0E75B6?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Cloud_Native-89%25-0E75B6?style=flat-square" />
+</p>
+
+---
+
+## 📫 Strategic Contact
+<div align="center">
+  <a href="mailto:raunak.dhabekar1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&bg_color=0D1117" width="100%"/>
 </div>
