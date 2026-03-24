@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=80&lines=Ramesh+Vithoba+Dhabekar;Quantitative+Architect;AI+Agent+Strategist;Blockchain+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&height=80&lines=Raunak+Dhabekar;Quantitative+Architect;AI+Agent+Strategist;Blockchain+Infrastructure" alt="Typing SVG" />
 
   <p align="center">
     <b>Engineering the bridge between Autonomous Intelligence, Decentralized Systems, and Mathematical Finance ⚡</b><br>
